@@ -1,2 +1,2 @@
 # Phone_Number_Details
-A script to get detail of a phone number entered by the user
+A script to get detail of a phone number entered by the user with twilio (third party service)
